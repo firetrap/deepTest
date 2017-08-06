@@ -1,5 +1,5 @@
 # Arplayer test
 
-[edubox://localhost?alvorge](edubox://localhost?alvorge)
+[edubox://localhost?capelaalvorge](edubox://localhost?capelaalvorge)
 
 
